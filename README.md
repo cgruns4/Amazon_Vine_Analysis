@@ -34,5 +34,6 @@
 
 
 ### Summary
-- is there positivty bias for reviews
-- additional analysis that could do with dataset to supprt statement
+- There appears to be a positivity bias for non-reviews, but not for reviews. This can likely be attributed to a consumers preference to ubmit a review when
+  they encounter a less then perfect experience.  
+- We could provide further analysis on the all star ratings, and attain a weighted average of overall rating for both reviews and non-reviews.
